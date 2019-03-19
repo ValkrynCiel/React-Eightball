@@ -1,0 +1,17 @@
+.Eightball {
+    width: 22em;
+    height: 22em;
+    border-radius: 11em;
+    position: relative;
+    border: 2px solid purple;
+    margin-left: calc(50vw - 11em);
+    margin-top: calc(50vh - 11em);
+}
+
+.Eightball-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+}
