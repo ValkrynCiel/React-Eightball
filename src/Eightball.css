@@ -5,7 +5,7 @@
     position: relative;
     border: 2px solid purple;
     margin-left: calc(50vw - 11em);
-    margin-top: calc(50vh - 11em);
+    margin-top: calc(50vh - 11em); 
 }
 
 .Eightball-text {
