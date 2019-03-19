@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="Eightball"
+  onClick={[Function]}
+  style={
+    Object {
+      "backgroundColor": "black",
+      "color": "white",
+    }
+  }
+>
+  <b
+    className="Eightball-text"
+  >
+    Think of a question
+     
+  </b>
+</div>
+`;

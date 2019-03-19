@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="App"
+>
+  <Eightball
+    answers={
+      Array [
+        Object {
+          "color": "green",
+          "msg": "It is certain.",
+        },
+        Object {
+          "color": "green",
+          "msg": "It is decidedly so.",
+        },
+        Object {
+          "color": "green",
+          "msg": "Without a doubt.",
+        },
+        Object {
+          "color": "green",
+          "msg": "Yes - definitely.",
+        },
+        Object {
+          "color": "green",
+          "msg": "You may rely on it.",
+        },
+        Object {
+          "color": "green",
+          "msg": "As I see it, yes.",
+        },
+        Object {
+          "color": "green",
+          "msg": "Most likely.",
+        },
+        Object {
+          "color": "green",
+          "msg": "Outlook good.",
+        },
+        Object {
+          "color": "green",
+          "msg": "Yes.",
+        },
+        Object {
+          "color": "goldenrod",
+          "msg": "Signs point to yes.",
+        },
+        Object {
+          "color": "goldenrod",
+          "msg": "Reply hazy, try again.",
+        },
+        Object {
+          "color": "goldenrod",
+          "msg": "Ask again later.",
+        },
+        Object {
+          "color": "goldenrod",
+          "msg": "Better not tell you now.",
+        },
+        Object {
+          "color": "goldenrod",
+          "msg": "Cannot predict now.",
+        },
+        Object {
+          "color": "goldenrod",
+          "msg": "Concentrate and ask again.",
+        },
+        Object {
+          "color": "red",
+          "msg": "Don't count on it.",
+        },
+        Object {
+          "color": "red",
+          "msg": "My reply is no.",
+        },
+        Object {
+          "color": "red",
+          "msg": "My sources say no.",
+        },
+        Object {
+          "color": "red",
+          "msg": "Outlook not so good.",
+        },
+        Object {
+          "color": "red",
+          "msg": "Very doubtful.",
+        },
+      ]
+    }
+  />
+</div>
+`;
